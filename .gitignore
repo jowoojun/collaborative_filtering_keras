@@ -1,4 +1,6 @@
 /out
+out.zip
+recipe_weights.h5
 /input
 .ipynb_checkpoints
 .DS_Store
