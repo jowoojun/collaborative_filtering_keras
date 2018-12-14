@@ -14,10 +14,26 @@ How to use
   ```
   pip install -r requirements.txt
   ```
-2. Execute jupyter
+2. Download dataset & models
+
+  https://drive.google.com/open?id=1qhSfwugNhDiesYsB62GKGGsUC-B-TYf3
+  
+  https://drive.google.com/open?id=1KSwUnZ3jgtPeu9IdKH3rqR_cFLgNfxYL
+  
+3. move dataset & models to its directory
+  
+  ```
+  tar xvzf input.tar.gz
+  tar xvzf models.tar.gz
+  ```
+  
+4. Execute jupyter
   ```
   jupyter notebook
   ```
+  
+5. run
+  
   
 Reference
 ===========================
