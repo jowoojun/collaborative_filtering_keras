@@ -5,4 +5,5 @@ recipe_weights.h5
 .ipynb_checkpoints
 .DS_Store
 *.pyc
+/models
 /previous
